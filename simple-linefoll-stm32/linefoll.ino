@@ -1,3 +1,4 @@
+//3 analog sensor
 int enA = PA6;//Enable1 L293 Pin enA 
 int in1 = PA7; //Motor1  L293 Pin in1 
 int in2 = PB0; //Motor1  L293 Pin in1 
